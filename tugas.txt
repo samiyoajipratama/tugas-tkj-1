@@ -3,20 +3,20 @@ Tulis link/url dan nama, contoh : "Link URL : https://rfpschool.github.io (Restu
 1. 
 2. 
 3. https://github.com/aldymeanurhakim85-dotcom/Aldymeaa.github.io (aldymea nurhakim) 
-4. 
+4. https://riiajah.github.io/#hero (ari Apriansyah Pratama)
 5.
 6. https://ezrrrzzkyy.github.io/ (Ezar Rizky Bahtiar) 
 7. https://github.com/fhri-f/fhri-f.github.io(fahri fahrezi)
 8. 
 9. 
-10. Link URL : https://gilangadityapratama16-maker.github.io/ (gilang aditya pratama)
+10. 
 11. https://hilmiasyafiq.github.io/(Hilmi A syafiq) 
 12. Link URL : https://almoehdar.github.io/ (Hisyam Almuhdar)
 13. 
 14. 
 15. link URL : https://diktor178-star.github.io/ (muhamad ubaydillah)
 16. Link URL : https://muhbagussaputra2405-spec.github.io/ (Muhammad Bagus Saputra)
-17. 
+17. link url:  muhammadsakhi1199-max.github.io (muhammad sakhi)
 18. Link URL: bintangganteng-hub.github.io (Rayhan Bintang)
 19. Link URL : https://reffynaufall.github.io (Reffy Naufal) (username : admin, password : 12345)
 20. 
