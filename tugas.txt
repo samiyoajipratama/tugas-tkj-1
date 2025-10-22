@@ -21,5 +21,5 @@ Tulis link/url dan nama, contoh : "Link URL : https://rfpschool.github.io (Restu
 19. Link URL : https://reffynaufall.github.io (Reffy Naufal) (username : admin, password : 12345)
 20. 
 21. Link URL : https://Saharuddinhub.github.io (saharuddin)
-22. 
+22. Link URL :https://samiyoajipratama.github.io (samiyo aji pratama)
 23. "Link URL : https://Syifaaa226.github.io (Syifaa Fauziah)"
